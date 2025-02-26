@@ -4,4 +4,4 @@ sync.license.limit = Počet vybraných rozšíření dosáhl limitu. To purchase
 sync.synchronize = Synchronizovat
 sync.resynchronize = Resynchronizovat
 sync.team.title = Vyberte tým.
-sync.extensions.title = Vyberte rozšíření pro hledání v hovorech
+sync.extensions.title = Vyberte pobočky pro hledání v hovorech
