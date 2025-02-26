@@ -1,0 +1,15 @@
+users_profiles = Users Profiles
+menu.users_profiles = {:users_profiles:}
+users_profiles.name.title = Name for this User Profile
+users_profiles.profile_type = Type
+users_profiles.profile_type.title = It defines the type of profile. On the user's dialog, depending on the selected user type, the profile dropdown will be populated with profiles that have the same type as the user type.
+users_profiles.permissions = Permissions
+users_profiles.permissions.title = It allows you to select what permissions or actions has the user
+users_profiles.add_notes = Add Notes
+users_profiles.add_flags = Add Flags
+users_profiles.add_ref_number = Add References
+users_profiles.allow_listen = Listening Recordings
+users_profiles.create_reports = Create Reports
+users_profiles.allow_delete = Deleting Recordings
+users_profiles.unselected_modules = Unselected Modules
+users_profiles.selected_modules = Selected Modules
