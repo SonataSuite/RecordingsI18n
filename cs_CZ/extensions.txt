@@ -1,0 +1,12 @@
+menu.extensions = Rozšíření
+extensions.configured = Nakonfigurováno
+extensions.lic.limit = Dosáhli jste limitu licencí pro %s rozšíření. Chcete-li zakoupit licenci pro další rozšíření, obraťte se na svého prodejce.
+extensions.ext_name = Název rozšíření
+extensions.ext_name.title = Název rozšíření
+extensions.team.title = Tým rozšíření
+extensions.warning = Varování!
+extensions.warning.deleted = Vypadá to, že tato pobočka byla smazáno z vašeho PBX systému.
+extensions.out_rec = Odchozí záznam
+extensions.in_rec = Přicházející záznam
+extensions.loc_rec = Vnitřní záznam
+extensions.rec.title = Nahrávejte hovory typu :type. Pokud chcete změnit tento parametr, musíte upravit toto rozšíření na vašem PBX.

@@ -1,0 +1,4 @@
+license.notification.title = Aktivace licence
+license.cannot_create_lic = Nelze vytvořit licenci
+license.not_supported_os = Nelze zaregistrovat tuto licenci, není podporována na tomto OS
+license.by_server = Licencováno serverem

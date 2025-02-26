@@ -1,0 +1,7 @@
+menu.panel = Panel
+panel.no_extension = Tento agent nemá přiřazenou pobočku.
+panel.last_update = Poslední aktualizace
+panel.refresh = Aktualizovat nyní
+panel.calls = Hovory
+panel.team = Tým
+panel.call_type = Typ hovoru
