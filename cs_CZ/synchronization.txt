@@ -1,7 +1,7 @@
-menu.synchronization = Synchronization
-sync.no_extensions = Choose at least one extension
-sync.license.limit = The number of your selected extensions have reached the limit. To purchase a license for additional extensions please contact your dealer.
-sync.synchronize = Synchronize
-sync.resynchronize = Resynchronize
-sync.team.title = Choose a team.
-sync.extensions.title = Choose Extensions to search in calls
+menu.synchronization = Synchronizace
+sync.no_extensions = Vyberte alespoň jedno rozšíření
+sync.license.limit = Počet vybraných rozšíření dosáhl limitu. To purchase a license for additional extensions please contact your dealer. = Pro zakoupení licence na další rozšíření kontaktujte svého prodejce.
+sync.synchronize = Synchronizovat
+sync.resynchronize = Resynchronizovat
+sync.team.title = Vyberte tým.
+sync.extensions.title = Vyberte rozšíření pro hledání v hovorech
