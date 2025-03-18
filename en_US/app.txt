@@ -93,3 +93,4 @@ app.pt.administrator = Administrator
 app.pt.agent = Agent
 app.pt.manager = Manager
 app.pt.supervisor = Supervisor
+app.login.user = Username

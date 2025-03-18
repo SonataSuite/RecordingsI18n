@@ -48,3 +48,4 @@ search_calls.play = Play
 search_calls.date_time = Date/Time
 search_calls.from = From
 search_calls.to = To
+search_calls.cid = Caller ID

@@ -33,5 +33,5 @@ users.type = User Type
 users.type.title = It define the type of user. Depending on this parmeter, the user will be allowed to do some actions when generating a report
 users.tenant = Tenant
 users.tenant.title = Tenant to whom belongs this user.
-users.login_email = Email %s
+users.login_email = Email
 users.login_email.title = Email to use for log in.

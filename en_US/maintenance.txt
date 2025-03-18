@@ -46,3 +46,6 @@ maintenance.backup_type.directory = Directory
 maintenance.backup_type.ftp = FTP
 maintenance.no_directory = Backup recordings field has been set as "Directory", but not directory has been defined
 maintenance.no_ftp_settings = Backup recordings field has been set as "FTP", but not FTP server has been configured
+maintenance.timezone.title = It allows you to define the timezone for running the maintenance tasks.
+maintenance.keep_local_copy = Keep Local Files
+maintenance.keep_local_copy.title = When set to "Yes," the local recording files are kept after uploading them to an external location.

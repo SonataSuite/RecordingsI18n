@@ -5,3 +5,4 @@ panel.refresh = Refresh Now
 panel.calls = Calls
 panel.team = Team
 panel.call_type = Call Type
+panel.extension = Extension
