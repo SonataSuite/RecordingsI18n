@@ -1,0 +1,4 @@
+menu.teams = Týmy
+teams.flag_profile = Profil profilu
+teams.flag_profile.title = Profil vlajek týmu
+teams.description.title = Popis týmu

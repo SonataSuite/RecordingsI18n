@@ -1,0 +1,7 @@
+menu.synchronization = Synchronizace
+sync.no_extensions = Vyberte alespoň jedno rozšíření
+sync.license.limit = Počet vybraných rozšíření dosáhl limitu. To purchase a license for additional extensions please contact your dealer. = Pro zakoupení licence na další rozšíření kontaktujte svého prodejce.
+sync.synchronize = Synchronizovat
+sync.resynchronize = Resynchronizovat
+sync.team.title = Vyberte tým.
+sync.extensions.title = Vyberte pobočky pro hledání v hovorech

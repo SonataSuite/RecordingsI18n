@@ -1,0 +1,15 @@
+users_profiles = Uživatelské profily
+menu.users_profiles = {:users_profiles:}
+users_profiles.name.title = Název tohoto uživatelského profilu
+users_profiles.profile_type = Typ
+users_profiles.profile_type.title = Definuje typ profilu. V dialogu uživatele, v závislosti na vybraném typu uživatele, bude rozevírací seznam profilů naplněn profily, které mají stejný typ jako uživatelský typ.
+users_profiles.permissions = Oprávnění
+users_profiles.permissions.title = Umožňuje vybrat, jaká oprávnění nebo akce má uživatel
+users_profiles.add_notes = Přidat poznámky
+users_profiles.add_flags = Přidat značky
+users_profiles.add_ref_number = Přidat reference
+users_profiles.allow_listen = Poslech nahrávek
+users_profiles.create_reports = Vytvořit reporty
+users_profiles.allow_delete = Odstraňování nahrávek
+users_profiles.unselected_modules = Nevýbrané moduly
+users_profiles.selected_modules = Vybrané moduly
