@@ -1,0 +1,7 @@
+menu.panel = Painel
+panel.no_extension = Este agente não tem um ramal atribuído.
+panel.last_update = Última atualização
+panel.refresh = Atualizar agora
+panel.calls = Chamadas
+panel.team = Equipe
+panel.call_type = Tipo de chamada

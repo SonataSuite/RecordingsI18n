@@ -1,0 +1,9 @@
+downloads = Downloads
+menu.downloads = {:downloads:}
+downloads.datetime = Data e hora
+downloads.size = Tamanho
+downloads.status = Status
+downloads.legend = Downloads solicitados
+downloads.ready = Pronto
+downloads.pending = Pendente
+downloads.cannot_delete = Não é possível excluir o seguinte arquivo: :arquivo

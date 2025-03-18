@@ -1,0 +1,4 @@
+license.notification.title = Ativação de Licença
+license.cannot_create_lic = Impossível criar a licença
+license.not_supported_os = Impossível registrar esta Licença, não suportada neste SO
+license.by_server = Licenciado pelo Servidor

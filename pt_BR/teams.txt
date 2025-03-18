@@ -1,0 +1,4 @@
+menu.teams = Equipes
+teams.flag_profile = Sinalizar Perfil
+teams.flag_profile.title = Perfil de sinalização da equipe
+teams.description.title = Descrição da equipe

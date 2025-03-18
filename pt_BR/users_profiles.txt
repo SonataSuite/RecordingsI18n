@@ -1,0 +1,15 @@
+users_profiles = Perfis de Usuários
+menu.users_profiles = {:users_profiles:}
+users_profiles.name.title = Nome para este perfil de usuário
+users_profiles.profile_type = Tipo
+users_profiles.profile_type.title = Define o tipo de perfil. Na caixa de diálogo do usuário, dependendo do tipo de usuário selecionado, a lista suspensa do perfil será preenchida com perfis que tenham o mesmo tipo que o tipo de usuário.
+users_profiles.permissions = Permissões
+users_profiles.permissions.title = Permite selecionar quais permissões ou ações tem o usuário
+users_profiles.add_notes = Adicionar notas
+users_profiles.add_flags = Adicionar sinalizadores
+users_profiles.add_ref_number = Adicionar referências
+users_profiles.allow_listen = Ouvindo gravações
+users_profiles.create_reports = Criar relatórios
+users_profiles.allow_delete = Excluindo gravações
+users_profiles.unselected_modules = Módulos não selecionados
+users_profiles.selected_modules = Módulos selecionados

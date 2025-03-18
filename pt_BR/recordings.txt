@@ -1,0 +1,10 @@
+recordings.action.add_note = Ver e adicionar notas
+recordings.action.add_flags = Adicionar sinalizadores
+recordings.action.add_reference = Adicionar número de referência
+recordings.action.play_recording = Reproduzir Gravação
+recordings.action.delete_recording = Excluir Gravação
+recordings.type.1 = Interno
+recordings.type.2 = Entrada
+recordings.type.3 = Saída
+recordings.type.4 = Trânsito
+recordings.type.5 = Desconhecido
