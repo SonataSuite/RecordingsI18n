@@ -1,5 +1,5 @@
 downloads = Stahování
-menu.downloads = {:stahování:}
+menu.downloads = Stahování
 downloads.datetime = Datum a čas
 downloads.size = Velikost
 downloads.status = Stav

@@ -1,5 +1,5 @@
 users_profiles = Uživatelské profily
-menu.users_profiles = {:users_profiles:}
+menu.users_profiles = Uživatelské profily
 users_profiles.name.title = Název tohoto uživatelského profilu
 users_profiles.profile_type = Typ
 users_profiles.profile_type.title = Definuje typ profilu. V dialogu uživatele, v závislosti na vybraném typu uživatele, bude rozevírací seznam profilů naplněn profily, které mají stejný typ jako uživatelský typ.
