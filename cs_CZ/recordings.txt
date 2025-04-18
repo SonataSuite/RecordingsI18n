@@ -1,5 +1,5 @@
 recordings.action.add_note = Zobrazit a přidat poznámky
-recordings.action.add_flags = Přidat značky
+recordings.action.add_flags = Přidat vlajky
 recordings.action.add_reference = Přidat referenční číslo
 recordings.action.play_recording = Přehrát nahrávku
 recordings.action.delete_recording = Smazat nahrávku

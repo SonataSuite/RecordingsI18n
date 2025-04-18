@@ -1,11 +1,11 @@
 filters = Filtry
-module.filters = {:filtry:}
-menu.filters = {:filtry:}
-filters.description = {:popis:}
+module.filters = Filtry
+menu.filters = Filtry
+filters.description = Popis
 filters.description.title = Popis pro tento filtr.
-filters.team = {:tým:}
+filters.team = Tým
 filters.team.title = Vyberte tým.
-filters.extensions.title = Vyberte rozšíření pro vyhledávání v hovorech
+filters.extensions.title = Vyberte pobočku pro vyhledávání v hovorech
 filters.condition = Podmínka
 filters.search_by = Hledat podle
 filters.mode = Režim
